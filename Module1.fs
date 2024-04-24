@@ -1,4 +1,4 @@
-namespace ModuleAliasRepro
+namespace ModuleAliasRepro1
 
 module Module1 =
 

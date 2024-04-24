@@ -1,6 +1,8 @@
 ﻿module ModuleAliasRepro.Program
 
 open FsToolkit.ErrorHandling
+open ModuleAliasRepro1
+open ModuleAliasRepro2
 
 [<EntryPoint>]
 let main argv =

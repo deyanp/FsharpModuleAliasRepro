@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/deyan/TryProjects/ModuleAliasRepro/ModuleAliasRepro.fsproj": {}
+    "/home/deyan/TryProjects/FsharpModuleAliasRepro/ModuleAliasRepro.fsproj": {}
   },
   "projects": {
-    "/home/deyan/TryProjects/ModuleAliasRepro/ModuleAliasRepro.fsproj": {
+    "/home/deyan/TryProjects/FsharpModuleAliasRepro/ModuleAliasRepro.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/deyan/TryProjects/ModuleAliasRepro/ModuleAliasRepro.fsproj",
+        "projectUniqueName": "/home/deyan/TryProjects/FsharpModuleAliasRepro/ModuleAliasRepro.fsproj",
         "projectName": "ModuleAliasRepro",
-        "projectPath": "/home/deyan/TryProjects/ModuleAliasRepro/ModuleAliasRepro.fsproj",
+        "projectPath": "/home/deyan/TryProjects/FsharpModuleAliasRepro/ModuleAliasRepro.fsproj",
         "packagesPath": "/home/deyan/.nuget/packages/",
-        "outputPath": "/home/deyan/TryProjects/ModuleAliasRepro/obj/",
+        "outputPath": "/home/deyan/TryProjects/FsharpModuleAliasRepro/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/deyan/.nuget/NuGet/NuGet.Config"
