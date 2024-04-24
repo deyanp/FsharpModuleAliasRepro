@@ -4,9 +4,12 @@ open FsToolkit.ErrorHandling
 
 [<EntryPoint>]
 let main argv =
+    let x = Module1.someF () // works
+    let y = Module1.someF2 () // works
 
     let a: Result<int, string> = ResultA.retnV2 1  // works
-    let b: Validation<int, string> = ResultA.retn 2 // does 
+    let b: Validation<int, string> = ResultA.retn 2 // does not work
 
-    // For more information see https://aka.ms/fsharp-console-apps
-    printfn "Hello from F#"
+    0 // return an integer exit code
+
+
