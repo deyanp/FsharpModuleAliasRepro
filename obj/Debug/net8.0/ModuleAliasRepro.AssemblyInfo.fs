@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("ModuleAliasRepro")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8111d89c7c5a36a5215f09a0056e302517f36f31")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43050dca8ef366358952e1eb280a8a8bb602e480")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("ModuleAliasRepro")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("ModuleAliasRepro")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]

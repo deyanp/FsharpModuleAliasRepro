@@ -1,5 +1,0 @@
-/home/deyan/TryProjects/FsharpModuleAliasRepro/obj/Debug/net8.0/ModuleAliasRepro.fsproj.AssemblyReference.cache
-/home/deyan/TryProjects/FsharpModuleAliasRepro/obj/Debug/net8.0/ModuleAliasRepro.AssemblyInfoInputs.cache
-/home/deyan/TryProjects/FsharpModuleAliasRepro/obj/Debug/net8.0/ModuleAliasRepro.AssemblyInfo.fs
-/home/deyan/TryProjects/FsharpModuleAliasRepro/obj/Debug/net8.0/ModuleAliasRepro.fsproj.CoreCompileInputs.cache
-/home/deyan/TryProjects/FsharpModuleAliasRepro/obj/Debug/net8.0/ModuleAliasRepro.sourcelink.json
